@@ -19,6 +19,8 @@ This is specific to the operating system
 Find your `Fiji.app` folder (I have extracted it in my `Downloads` folder).
 Copy the `ilastik4ij-1.7.3.jar` to `Fiji.app\plugins`:
 
+![manual plugin install on windows](imgs/inst-plugin-win.gif)
+
 ** Make sure there is not an older version of `ilastik4ij` in that folder. If so, delete it! **
 
 
@@ -29,6 +31,7 @@ This can be typically found in `Applications`.
 Ctrl-click on it and select _Show Package Contents_.
 Copy the `ilastik4ij-1.7.3.jar` to the plugins folder you can see there:
 
+![manual plugin install on OSX](imgs/inst-plugin-osx.gif)
 
 ** Make sure there is not an older version of `ilastik4ij` in that folder. If so, delete it! **
 
