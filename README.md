@@ -37,6 +37,6 @@ Copy the `ilastik4ij-1.7.3.jar` to the plugins folder you can see there:
 
 ### Linux
 
-Locate your Fiji folder and copy the `ilastik4ij-1.7.3.jar` to `Fiji.app\plugins`.
+Locate your Fiji folder and copy the `ilastik4ij-1.7.3.jar` to `Fiji.app/plugins`.
 
 ** Make sure there is not an older version of `ilastik4ij` in that folder. If so, delete it! **
