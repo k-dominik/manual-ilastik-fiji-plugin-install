@@ -9,7 +9,16 @@ This is a quick summary on how to install the ilastik fiji plugin manually.
 We have hosted the latest version of the plugin on our download site:
 [https://files.ilastik.org/ilastik4ij-1.7.3.jar](https://files.ilastik.org/ilastik4ij-1.7.3.jar) (right click, save).
 
-## 2. Copy the plugin to the Fiji plugin folder
+
+## 2. Install 
+
+### Preferred method:
+
+drag and drop the `ilastik4ij-1.7.3.jar` onto your imagej gui and you're done.
+
+if you prefer more involved ways:
+
+### Copy the plugin to the Fiji plugin folder (not needed if the above worked)
 
 This is specific to the operating system
 
